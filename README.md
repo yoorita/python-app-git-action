@@ -137,5 +137,10 @@ Example response:
 }
 ```
 
+## test_app.py
 
+To complete testing, please run the following command
 
+```bash
+python -m unittest test_app.py
+```
